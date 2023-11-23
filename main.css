@@ -10,3 +10,9 @@ a:link {
   color: darkblue; !important
       text-decoration: none;
 }
+body {
+  background-image: url('./images/OneShotRefuge.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
