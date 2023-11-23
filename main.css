@@ -7,6 +7,6 @@ img {
     border-radius: 100%;
 }
 a:link {
-  color: cyan;
-      text-decoration: bold;
+  color: darkblue; !important
+      text-decoration: none;
 }
