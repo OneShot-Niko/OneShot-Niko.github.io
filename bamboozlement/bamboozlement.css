@@ -1,0 +1,10 @@
+body {
+    background-color: #000000;
+    text-align: center;
+    font-family: arial;
+}
+a:link {
+  color: cyan; !important
+      text-decoration: none;
+}
+ /*i might need to declare other stuff later*/
