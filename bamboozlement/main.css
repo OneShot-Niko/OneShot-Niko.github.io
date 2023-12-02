@@ -5,4 +5,8 @@ body {
     background-color: #000000; !important
     font-family: arial;
 }
+a:link {
+  color: cyan; !important
+      text-decoration: none;
+}
 /* Might change later, for now this is how I plan it to be. */
