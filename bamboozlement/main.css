@@ -2,7 +2,8 @@ h1 {
   text-align: center;
 }
 body {
-    background-color: #000000; !important
+    background-color: #000000;
+    text-align: left;
     font-family: arial;
 }
 a:link {
