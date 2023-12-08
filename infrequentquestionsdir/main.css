@@ -1,0 +1,11 @@
+body {
+background-color: #000000
+  font-family: helvetica, arial;
+  text-align: center;
+}
+}
+a:link {
+  color: #855cd6; !important
+      text-decoration: default;
+}
+/** For now not much else, won't use the repo's main css because then people would have to deal with the background.**/
