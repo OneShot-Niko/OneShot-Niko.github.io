@@ -1,3 +1,2 @@
-# <div align="center">this is barely anything until I have motivation</div>
-This is all it will be, for now atleast.
-Working on it occasionally.
+# <div align="center">What even is this, lol.</div>
+Github Pages site - I do random shenanigans here, like them or not.
