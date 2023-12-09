@@ -5,7 +5,7 @@ background-color: #000000
 }
 }
 a:link {
-  color: #855cd6; !important
+  color: purple; !important
       text-decoration: default;
 }
 /** For now not much else, won't use the repo's main css because then people would have to deal with the background.**/
